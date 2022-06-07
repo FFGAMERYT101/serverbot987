@@ -1,0 +1,6 @@
+{
+	"ip":"Draco_SMP55.aternos.me",
+	"port": "15989",
+	"name": "serverbot1",
+	"auto-night-skip":"true"
+}
